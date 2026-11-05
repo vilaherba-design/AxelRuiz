@@ -1,0 +1,30 @@
+[
+  {
+    "title": "AxelRuiz",
+    "description": "Fallout 4 VR mod list with full Spanish translation (ES and EN profiles).",
+    "author": "AxelRuiz",
+    "maintainers": [
+      "github/vilaherba-design"
+    ],
+    "game": "fallout4vr",
+    "official": false,
+    "tags": [
+      "testing",
+      "VR"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.png",
+      "readme": "https://github.com/vilaherba-design/AxelRuiz",
+      "download": "PEGAR_AQUI_EL_ENLACE_DEL_CDN",
+      "machineURL": "AxelRuiz",
+      "discordURL": "https://discord.gg/2FWxJCjvG",
+      "websiteURL": ""
+    },
+    "version": "0.1.0.0"
+  }
+]
