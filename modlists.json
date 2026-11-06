@@ -9,8 +9,9 @@
     "game": "fallout4vr",
     "official": false,
     "tags": [
-      "testing",
-      "VR"
+      "VR",
+      "DLC Required",
+      "Steam"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -18,7 +19,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.png",
+      "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.webp",
       "readme": "https://github.com/vilaherba-design/AxelRuiz",
       "download": "https://authored-files.wabbajack.org/AxelRuiz-0.1.0.wabbajack_8f929994-2db6-42eb-b81b-10b368d1db4a",
       "machineURL": "AxelRuiz",
