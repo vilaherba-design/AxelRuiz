@@ -1,7 +1,7 @@
 [
   {
     "title": "AxelRuiz",
-    "description": "Fallout 4 VR mod list with full Spanish translation (ES and EN profiles).",
+    "description": "Fallout 4 VR mod list: the best of GingasVR Essentials and Mad God Overhaul, updated, with FRIK, Sim Settlements 2, Point Lookout, HD textures and a full Spanish translation (ES and EN profiles). BETA.",
     "author": "AxelRuiz",
     "maintainers": [
       "github/vilaherba-design"
@@ -20,11 +20,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.png",
       "readme": "https://github.com/vilaherba-design/AxelRuiz",
-      "download": "PEGAR_AQUI_EL_ENLACE_DEL_CDN",
+      "download": "https://authored-files.wabbajack.org/AxelRuiz-0.1.0.wabbajack_8f929994-2db6-42eb-b81b-10b368d1db4a",
       "machineURL": "AxelRuiz",
       "discordURL": "https://discord.gg/2FWxJCjvG",
       "websiteURL": ""
     },
-    "version": "0.1.0.0"
+    "version": "0.1.0.0",
+    "download_metadata": {
+      "Hash": "z8Wk99L/9Do=",
+      "Size": 2430847159,
+      "NumberOfArchives": 455,
+      "SizeOfArchives": 126818970604,
+      "NumberOfInstalledFiles": 32861,
+      "SizeOfInstalledFiles": 118467826263
+    }
   }
 ]
