@@ -1,7 +1,7 @@
 [
   {
     "title": "AxelRuiz",
-    "description": "The best mod list as of late 2026, designed for use with RTX, and either Virtual Desktop (OpenComposite) or SteamVR (best experienced with a fiber-optic cable or Wi-Fi 6E). Languages: English and Spanish.",
+    "description": "A complete Fallout 4 VR modlist, built and tested in VR from the ground up: hand-made patches and VR fixes. English and Spanish profiles. Requires Fallout 4 VR and the DLC from flat Fallout 4.",
     "author": "AxelRuiz",
     "maintainers": [
       "github/vilaherba-design"
@@ -23,8 +23,8 @@
       "readme": "https://github.com/vilaherba-design/AxelRuiz",
       "download": "https://authored-files.wabbajack.org/AxelRuiz .wabbajack_3f2586ee-fa6d-4242-880b-956c99244a7b",
       "machineURL": "AxelRuiz",
-      "discordURL": "https://discord.gg/2FWxJCjvG",
-      "websiteURL": "",
+      "discordURL": "https://discord.gg/EHJa5sK3zJ",
+      "websiteURL": "https://www.nexusmods.com/fallout4/mods/110989",
       "nexusCollection": null
     },
     "download_metadata": {
