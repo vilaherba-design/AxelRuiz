@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.webp",
       "readme": "https://github.com/vilaherba-design/AxelRuiz",
-      "download": "https://authored-files.wabbajack.org/AxelRuiz .wabbajack_0e436e2e-ff47-4a6e-8688-f6ae5a77495f",
+      "download": "https://authored-files.wabbajack.org/AxelRuiz .wabbajack_d3ecf285-4854-4034-967b-81f605e18883",
       "machineURL": "AxelRuiz",
       "discordURL": "https://discord.gg/2FWxJCjvG",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "tE5c5lTrad0=",
-      "Size": 2482113871,
-      "NumberOfArchives": 596,
-      "SizeOfArchives": 143165224428,
-      "NumberOfInstalledFiles": 43176,
-      "SizeOfInstalledFiles": 140012505284,
-      "TotalSize": 283177729712
+      "Hash": "+/Xm7rheqHM=",
+      "Size": 2506346773,
+      "NumberOfArchives": 615,
+      "SizeOfArchives": 146284787109,
+      "NumberOfInstalledFiles": 58947,
+      "SizeOfInstalledFiles": 144410231758,
+      "TotalSize": 290695018867
     },
-    "version": "0.5.0",
+    "version": "0.6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-09T17:19:23.082234Z",
+    "dateUpdated": "2026-11-10T03:28:02.1038716Z",
     "repositoryName": ""
   }
 ]
