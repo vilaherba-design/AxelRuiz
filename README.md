@@ -60,6 +60,10 @@ Copia estos archivos de `Fallout 4\Data` a `Fallout 4 VR\Data`:
 - **Las voces no coinciden con el perfil:** el idioma de Steam debe ser el mismo que el del perfil (español para ES, inglés para EN).
 - **Wabbajack falla al extraer un archivo:** revisa el antivirus (puede ponerlo en cuarentena) y vuelve a intentarlo.
 
+### Permisos abiertos
+
+Puedes hacer fork, modificar y volver a subir esta lista según la licencia de Wabbajack. Ponle otro nombre a tu versión y no la presentes como AxelRuiz. No doy soporte a versiones modificadas.
+
 ### Créditos
 
 Gracias a todos los autores de los mods. Los mods que van dentro de la lista se incluyen con permiso de sus autores.
@@ -121,6 +125,10 @@ Copy these files from `Fallout 4\Data` to `Fallout 4 VR\Data`:
 - **DLC NPCs have no voice in the EN profile:** your DLC are in another language. Copy them from an English Fallout 4.
 - **Voices do not match the profile:** the Steam game language must match the profile (Spanish for ES, English for EN).
 - **Wabbajack fails extracting a file:** check your antivirus (it may quarantine it) and try again.
+
+### Open permissions
+
+You may fork, modify and re-upload this modlist under the Wabbajack license. Please rename your fork and do not present it as AxelRuiz. I do not provide support for modified versions.
 
 ### Credits
 
