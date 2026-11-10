@@ -1,6 +1,6 @@
 # AxelRuiz Mod List – Fallout 4 VR
 
-**[Español](#español) · [English](#english)**
+**[Español](#español) · [English](#english)** · **[Discord](https://discord.gg/EHJa5sK3zJ)**
 
 ---
 
@@ -11,7 +11,7 @@ Lista de mods para **Fallout 4 VR** instalada con Wabbajack. Trae dos perfiles e
 - **AxelRuiz - ES**: todo traducido al castellano (mods, MCM y menús).
 - **AxelRuiz - EN**: la misma lista en inglés.
 
-Versión actual: **0.1** (prueba). Puede haber fallos: avísanos en el Discord.
+Versión actual: **0.5.0** (beta). Puede haber fallos: avísanos en el [Discord](https://discord.gg/EHJa5sK3zJ) con tu log de crash.
 
 ### Requisitos
 
@@ -71,7 +71,7 @@ A **Fallout 4 VR** mod list installed with Wabbajack. It comes with two Mod Orga
 - **AxelRuiz - ES**: everything translated into Spanish (mods, MCM and menus).
 - **AxelRuiz - EN**: the same list in English.
 
-Current version: **0.1** (test). Bugs are possible: let us know on Discord.
+Current version: **0.5.0** (beta). Bugs are possible: let us know on [Discord](https://discord.gg/EHJa5sK3zJ) and attach your crash log.
 
 ### Requirements
 
