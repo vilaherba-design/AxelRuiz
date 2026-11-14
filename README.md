@@ -7,7 +7,7 @@ A **Fallout 4 VR** mod list installed with Wabbajack. It comes with two Mod Orga
 - **AxelRuiz - ES**: everything translated into Spanish (mods, MCM and menus).
 - **AxelRuiz - EN**: the same list in English.
 
-Current version: **0.7.0** (beta). Bugs are possible: let us know on [Discord](https://discord.gg/EHJa5sK3zJ) and attach your crash log.
+Current version: **0.7.1** (beta). Bugs are possible: let us know on [Discord](https://discord.gg/EHJa5sK3zJ) and attach your crash log.
 
 ### Requirements
 
