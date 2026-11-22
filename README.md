@@ -7,7 +7,19 @@ A **Fallout 4 VR** mod list installed with Wabbajack. It comes with two Mod Orga
 - **AxelRuiz - ES**: everything translated into Spanish (mods, MCM and menus).
 - **AxelRuiz - EN**: the same list in English.
 
-Current version: **0.7.1** (beta). Bugs are possible: let us know on [Discord](https://discord.gg/EHJa5sK3zJ) and attach your crash log.
+Current version: **0.7.3** (beta). Bugs are possible: let us know on [Discord](https://discord.gg/EHJa5sK3zJ) and attach your crash log.
+
+### What's included
+
+- **Stable base**: Unofficial Fallout 4 Patch, Unofficial Fallout 4 VR Fix and Classic Fallout Mod (CFM VR), plus our own merged patch and cell patch.
+- **VR physics and hands**: FRIK (full body), the ROCK family (ROCK, PAPER, ROCK Wall Climbing, RobCo PALM wheel menu, RPS UI), Virtual Holsters and VR HUD.
+- **Interface**: FallUI, Complex Item Sorter, Pip-Boy weapon folders, Pip-Boy Dual Colors VR and a satellite Pip-Boy world map with cell grid. XDI VR for dialogue.
+- **Content**: Sim Settlements 2, Start Me Up, Raider Overhaul, Legendary Item Fixes, Wasteland Ronin, Outcasts and Remnants, The Fens Sheriff's Department, DOOM VR weapons and many VR-ready weapons.
+- **Looks**: texture overhauls, NPC facelifts and hair, CBBE with physics, BodyTalk 4 and Body Morph VR (BodySlide morphs in VR), Vivid Waters, Reflective Water, Clean Water, True Rain VR and BlurAway VR (DLAA).
+- **Performance**: Faster Shadows, Faster Loose Files and other VR performance fixes.
+- **Spanish profile**: every mod with text translated, plus Spanish voice packs by Axel for Start Me Up, Sim Settlements 2 (Chapter 1), Settlers and Tales of the Commonwealth, Outcasts and Remnants, Point Lookout and more.
+
+Changelogs for each version are on the [Nexus page](https://www.nexusmods.com/fallout4/mods/110989?tab=logs).
 
 ### Requirements
 
@@ -54,7 +66,7 @@ They come disabled. Enable them in MO2 by ticking their box.
 - **Vive Wand Controller Fix**: fixes Vive Wand controllers.
 - **Desktop Window VR**: shows the game in a desktop window.
 - **No Companion Window**: hides the desktop mirror window (SteamVR only, not with OpenComposite).
-- **Dynamic Terrain Deformation** and **Dynamic Bottle Liquids**: visual effects (terrain footprints, liquid in bottles). They add latency, especially with Virtual Desktop.
+- **Dynamic Bottle Liquids**: liquid that moves inside bottles. It adds latency, especially with Virtual Desktop.
 - **MantellaMod**: AI companions. Requires installing Mantella separately.
 
 ### Common problems
@@ -71,3 +83,8 @@ You may fork, modify and re-upload this modlist under the Wabbajack license. Ple
 ### Credits
 
 Thanks to every mod author. Mods packed inside the list are included with their authors' permission.
+
+- **Satellite Color World Map Combo** by XunAmarox, redistributed with permission.
+- **Map Tweaks Dual Color** by Gingas, used with permission.
+- **MORE HD** by Ben Ephla, included with permission.
+- **XDI VR**, included with the author's permission.
