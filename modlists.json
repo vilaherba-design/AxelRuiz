@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/vilaherba-design/AxelRuiz/main/axelruiz-portada.webp",
       "readme": "https://github.com/vilaherba-design/AxelRuiz",
-      "download": "https://authored-files.wabbajack.org/AxelRuiz .wabbajack_3ab6b141-326f-481e-bb35-9290578aa6c4",
+      "download": "https://authored-files.wabbajack.org/AxelRuiz .wabbajack_7fa4cd82-f0e8-475c-904a-ee8e086e4d1c",
       "machineURL": "AxelRuiz",
       "discordURL": "https://discord.gg/EHJa5sK3zJ",
       "websiteURL": "https://www.nexusmods.com/fallout4/mods/110989",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "F/HAkA+ke3Q=",
-      "Size": 2951295257,
+      "Hash": "JsD6fG45/Zs=",
+      "Size": 2949394117,
       "NumberOfArchives": 654,
-      "SizeOfArchives": 149924772088,
-      "NumberOfInstalledFiles": 110554,
-      "SizeOfInstalledFiles": 147408256052,
-      "TotalSize": 297333028140
+      "SizeOfArchives": 155629589317,
+      "NumberOfInstalledFiles": 110657,
+      "SizeOfInstalledFiles": 147532573071,
+      "TotalSize": 303162162388
     },
-    "version": "0.7.4",
+    "version": "0.7.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-23T00:15:37.3517717Z",
+    "dateUpdated": "2026-11-25T16:30:44.2922198Z",
     "repositoryName": ""
   }
 ]
